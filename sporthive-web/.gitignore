@@ -1,0 +1,20 @@
+# dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# builds
+dist/
+build/
+.next/
+.expo/
+.expo-shared/
+
+# ambiente
+.env
+.env.local
+.env.*.local
+
+# sistema
+.DS_Store
+Thumbs.db
